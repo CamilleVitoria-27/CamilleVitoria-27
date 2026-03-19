@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Camille, mas pode me chamar de Mille. Sou estudante de T.I, atualmente cursando Sistemas de Informação. Explorando o mundo do desenvolvimento com Java e Python!<br><br>★ Gosto bastante da parte de front-end e design, criando interfaces que unem estética e usabilidade<br>★ Tenho interesse em cibersegurança e na proteção de sistemas e dados<br>★ Sempre aprendendo, evoluindo e construindo novos projetos</p>
+<p align="left">Me chamo Camille, mas também pode me chamar de Mille. Sou estudante de T.I, atualmente cursando Sistemas de Informação. Explorando o mundo do desenvolvimento com Java e Python!<br><br>★ Gosto bastante da parte de front-end e design, criando interfaces que unem estética e usabilidade<br>★ Tenho interesse em cibersegurança e na proteção de sistemas e dados<br>★ Sempre aprendendo, evoluindo e construindo novos projetos</p>
 
 ###
 
