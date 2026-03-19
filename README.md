@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Back-End:</p>
+<h2 align="left">Back-End:</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Front-End:</p>
+<h2 align="left">Front-End:</h2>
 
 ###
 
